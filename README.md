@@ -1,1 +1,6 @@
 # Credit-card-default-detection
+The Credit Card Default Detection is a classification model machine learning project that aims to predict whether a credit card user will default on their payment based on their financial and demographic data such as credit limit, age, payment history, bill amount, and so on. The dataset used for the project contains 30,000 observations and 24 features. The project involves several stages, including data cleaning, feature engineering, and model selection. Various machine learning algorithms such as Logistic Regression, adaboost, Decision tree, SVC, Random Forest, were tested and evaluated based on their performance metrics. Finally, the project was also deployed using Flask on an EC2 instance on AWS, allowing users to input their own data and receive a prediction of their likelihood of defaulting on their credit card payments. However, to reduce costs, the EC2 instance was terminated after the project was completed. Users can access the deployed application through a web interface where they can input their financial and demographic information and get a prediction of whether they are likely to default on their payment. 
+
+<img width="918" alt="Screenshot 2023-04-19 130855" src="https://user-images.githubusercontent.com/115337082/233003786-a32123ec-6298-4b97-aa07-8e4c9198248d.png">
+
+ 
